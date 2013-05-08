@@ -1,0 +1,483 @@
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080253_000.log
+L 05/08/2013 - 02:53:44: Log file started (file "logs\L192_168_001_010_27015_201305080253_000.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+L 05/08/2013 - 02:53:44: Log file closed
+Server logging disabled.
+Unknown command: showpos
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080253_001.log
+L 05/08/2013 - 02:53:52: Log file started (file "logs\L192_168_001_010_27015_201305080253_001.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+L 05/08/2013 - 02:53:52: Log file closed
+Server logging disabled.
+Unknown command: show_pos
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_000.log
+L 05/08/2013 - 02:54:04: Log file started (file "logs\L192_168_001_010_27015_201305080254_000.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -216.000000 458.031250 54.093811;setang -2.079000 -88.999001 0.000000
+L 05/08/2013 - 02:54:04: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_001.log
+L 05/08/2013 - 02:54:13: Log file started (file "logs\L192_168_001_010_27015_201305080254_001.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -321.336884 411.724701 54.093811;setang 1.616999 -85.918953 0.000000
+L 05/08/2013 - 02:54:13: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_002.log
+L 05/08/2013 - 02:54:13: Log file started (file "logs\L192_168_001_010_27015_201305080254_002.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -251.191772 341.634247 54.093811;setang 1.616999 -85.918953 0.000000
+L 05/08/2013 - 02:54:13: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_003.log
+L 05/08/2013 - 02:54:14: Log file started (file "logs\L192_168_001_010_27015_201305080254_003.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -176.136368 275.417633 54.093811;setang 1.616999 -85.918953 0.000000
+L 05/08/2013 - 02:54:14: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_004.log
+L 05/08/2013 - 02:54:14: Log file started (file "logs\L192_168_001_010_27015_201305080254_004.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -75.938881 189.802475 54.093811;setang -0.385001 -69.286919 0.000000
+L 05/08/2013 - 02:54:14: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_005.log
+L 05/08/2013 - 02:54:15: Log file started (file "logs\L192_168_001_010_27015_201305080254_005.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -50.765572 144.063477 54.093811;setang -0.385001 -69.594917 0.000000
+L 05/08/2013 - 02:54:15: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_006.log
+L 05/08/2013 - 02:54:15: Log file started (file "logs\L192_168_001_010_27015_201305080254_006.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 0.221250 84.671951 54.093811;setang -0.616001 -93.387939 0.000000
+L 05/08/2013 - 02:54:15: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_007.log
+L 05/08/2013 - 02:54:15: Log file started (file "logs\L192_168_001_010_27015_201305080254_007.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 43.970341 32.035824 54.093811;setang 0.692999 -104.937950 0.000000
+L 05/08/2013 - 02:54:15: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_008.log
+L 05/08/2013 - 02:54:16: Log file started (file "logs\L192_168_001_010_27015_201305080254_008.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 78.539215 -38.177223 54.093811;setang 0.384999 -132.965942 0.000000
+L 05/08/2013 - 02:54:16: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_009.log
+L 05/08/2013 - 02:54:16: Log file started (file "logs\L192_168_001_010_27015_201305080254_009.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 77.935272 -97.374794 54.093811;setang 0.538999 -137.508957 0.000000
+L 05/08/2013 - 02:54:16: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_010.log
+L 05/08/2013 - 02:54:16: Log file started (file "logs\L192_168_001_010_27015_201305080254_010.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 34.801979 -162.612076 54.093811;setang 0.153999 -139.972977 0.000000
+L 05/08/2013 - 02:54:16: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_011.log
+L 05/08/2013 - 02:54:16: Log file started (file "logs\L192_168_001_010_27015_201305080254_011.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 21.544352 -208.909698 54.093811;setang 0.153999 -139.972977 0.000000
+L 05/08/2013 - 02:54:16: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_012.log
+L 05/08/2013 - 02:54:17: Log file started (file "logs\L192_168_001_010_27015_201305080254_012.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos 8.794880 -288.185425 54.093811;setang 0.076999 -158.375977 0.000000
+L 05/08/2013 - 02:54:17: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_013.log
+L 05/08/2013 - 02:54:17: Log file started (file "logs\L192_168_001_010_27015_201305080254_013.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -15.435690 -351.200867 54.093811;setang 0.076999 -169.001968 0.000000
+L 05/08/2013 - 02:54:17: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_014.log
+L 05/08/2013 - 02:54:17: Log file started (file "logs\L192_168_001_010_27015_201305080254_014.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -52.969719 -404.192566 54.093811;setang -0.000001 168.437042 0.000000
+L 05/08/2013 - 02:54:17: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_015.log
+L 05/08/2013 - 02:54:18: Log file started (file "logs\L192_168_001_010_27015_201305080254_015.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -121.528740 -444.452393 70.578056;setang 1.385999 129.629013 0.000000
+L 05/08/2013 - 02:54:18: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_016.log
+L 05/08/2013 - 02:54:18: Log file started (file "logs\L192_168_001_010_27015_201305080254_016.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -182.239243 -468.627686 111.005615;setang 2.001999 92.823021 0.000000
+L 05/08/2013 - 02:54:18: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_017.log
+L 05/08/2013 - 02:54:18: Log file started (file "logs\L192_168_001_010_27015_201305080254_017.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -242.521637 -453.340454 92.465576;setang 1.954794 74.651009 0.000000
+L 05/08/2013 - 02:54:18: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_018.log
+L 05/08/2013 - 02:54:18: Log file started (file "logs\L192_168_001_010_27015_201305080254_018.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -249.356476 -401.063965 128.580612;setang 1.847999 74.265999 0.000000
+L 05/08/2013 - 02:54:18: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_019.log
+L 05/08/2013 - 02:54:19: Log file started (file "logs\L192_168_001_010_27015_201305080254_019.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -240.665070 -352.598419 156.093811;setang 2.155999 74.497009 0.000000
+L 05/08/2013 - 02:54:19: Log file closed
+Server logging disabled.
+Server logging enabled.
+Server logging data to file logs\L192_168_001_010_27015_201305080254_020.log
+L 05/08/2013 - 02:54:19: Log file started (file "logs\L192_168_001_010_27015_201305080254_020.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "5276")
+setpos -230.182587 -308.137512 156.093811;setang 3.233998 75.729034 0.000000
+L 05/08/2013 - 02:54:19: Log file closed
+Server logging disabled.
+setpos 361.225342 172.378998 192.093811;setang 23.176971 -144.361877 0.000000
+setpos 360.794556 119.729767 192.093811;setang 19.095970 -115.409889 0.000000
+setpos 360.632568 75.643990 192.093811;setang 11.472971 -104.783890 0.000000
+setpos 353.825226 30.124256 192.093811;setang 7.083971 -99.085869 0.000000
+setpos 353.355347 -13.168696 192.093811;setang 5.235972 -96.698845 0.000000
+setpos 354.879211 -60.626972 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 353.151672 -104.919670 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 350.553589 -146.657181 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 346.750824 -199.093536 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 343.737671 -238.383972 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 340.162354 -284.079773 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 336.816498 -326.460846 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 333.327576 -370.493225 192.093811;setang 3.156972 -94.542831 0.000000
+setpos 330.050201 -411.791534 192.093811;setang 3.156972 -94.542831 0.000000
+Receiving uncompressed update from server
+Receiving uncompressed update from server
+
+Server connection timed out.
+CClientSteamContext OnSteamServersDisconnected logged on = 0
+Error getting avatar image: playerID(76561197974435408), iIndex(65535)
+Error getting avatar image: playerID(76561197966965603), iIndex(65535)
+Error getting avatar image: playerID(76561197960454087), iIndex(65535)
+Error getting avatar image: playerID(76561197961521590), iIndex(65535)
+Error getting avatar image: playerID(76561197960737787), iIndex(65535)
+Error getting avatar image: playerID(76561197962217487), iIndex(65535)
+Error getting avatar image: playerID(76561197995698608), iIndex(65535)
+Error getting avatar image: playerID(76561197969920078), iIndex(65535)
+Error getting avatar image: playerID(76561197960971339), iIndex(65535)
+Error getting avatar image: playerID(76561197996956853), iIndex(65535)
+Error getting avatar image: playerID(76561197968447025), iIndex(65535)
+Error getting avatar image: playerID(76561197982703089), iIndex(65535)
+CClientSteamContext OnSteamServerConnectFailure logged on = 0
+Error getting avatar image: playerID(76561197982703089), iIndex(65535)
+Error getting avatar image: playerID(76561197974435408), iIndex(65535)
+Error getting avatar image: playerID(76561197966965603), iIndex(65535)
+Error getting avatar image: playerID(76561197960454087), iIndex(65535)
+Error getting avatar image: playerID(76561197961521590), iIndex(65535)
+Error getting avatar image: playerID(76561197960737787), iIndex(65535)
+Error getting avatar image: playerID(76561197962217487), iIndex(65535)
+Error getting avatar image: playerID(76561197995698608), iIndex(65535)
+Error getting avatar image: playerID(76561197969920078), iIndex(65535)
+Error getting avatar image: playerID(76561197960971339), iIndex(65535)
+Error getting avatar image: playerID(76561197996956853), iIndex(65535)
+Error getting avatar image: playerID(76561197968447025), iIndex(65535)
+CClientSteamContext OnSteamServerConnectFailure logged on = 0
+Playing demo from 5-6-13goonman_4.dem.
+
+Counter-Strike: Global Offensive
+Map: workshop/125498231/de_train_se
+Players: 11 (1 bots) / 12 humans
+Build: 5276
+Server Number: 144
+
+SignalXWriteOpportunity(3)
+No pure server whitelist. sv_pure = 0
+Receiving uncompressed update from server
+***********************************
+*         NO GAME SESSION         *
+* some features might be disabled *
+* (achievements, stats, UI, etc.) *
+***********************************
+Redownloading all lightmaps
+CClientSteamContext OnSteamServerConnectFailure logged on = 0
+Smoothing demo from 5-6-13goonman_4.dem ... done.
+Smoothing demo from 5-6-13goonman_4.dem ... done.
+hit surface has no samples
+hit surface has no samples
+hit surface has no samples
+hit surface has no samples
+hit surface has no samples
+hit surface has no samples
+Must have smoothing selection active
+hit surface has no samples
+hit surface has no samples
+hit surface has no samples
+Test_RandomChance: requires percentage chance parameter (0-100) followed by command to execute.Test_RandomChance: requires percentage chance parameter (0-100) followed by command to execute.success 
+CClientSteamContext OnSteamServerConnectFailure logged on = 1
+CClientSteamContext OnSteamServerConnectFailure logged on = 1
+CClientSteamContext OnSteamServersConnected logged on = 1
+Unable to remove c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\qmmconnect.dt! (errno 2)
+Unable to remove c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\qmmconnect.dt! (errno 2)
+Unable to remove c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\qmmconnect.dt! (errno 2)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+SignalXWriteOpportunity(2)
+Succeeded in starting server map!
+Executing server command:
+mapgroup mg_de_train
+nextlevel de_train
+map de_train reserved
+
+---
+Setting mapgroup to 'mg_de_train'
+---- Host_NewGame ----
+Host_NewGame on map de_train
+GameTypes: initializing game types interface from GameModes.txt.
+GameTypes: Creating new entry for maps/de_nuke_ve.kv.
+GameTypes: merging game types interface from gamemodes_server.txt.
+KeyValues Error: RecursiveLoadFromBuffer:  got empty keyname in file gamemodes_server.txt
+GameModes_Server.txt, {, (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+KeyValues Error: LoadFromBuffer: missing { in file gamemodes_server.txt
+(*GameModes_Server.txt*), (*{*), (*gameTypes*), (*classic*), (*gameModes*), (*casual*), (*mapgroupsMP*), 
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+bot_autodifficulty_threshold_high - 2.0
+bot_autodifficulty_threshold_low - -6.0
+bot_chatter - normal
+bot_defer_to_human_goals - 0
+bot_defer_to_human_items - 1
+bot_difficulty - 1
+bot_quota - 10
+bot_quota_mode - normal
+bot_allow_grenades - 1
+bot_allow_pistols - 1
+bot_allow_sub_machine_guns - 1
+bot_allow_shotguns - 1
+bot_allow_rifles - 1
+bot_allow_snipers - 1
+bot_allow_machine_guns - 1
+mp_playercashawards - 1
+cash_player_bomb_defused - 300
+cash_player_bomb_planted - 300
+cash_player_damage_hostage - -30
+cash_player_interact_with_hostage - 150
+cash_player_killed_enemy_default - 300
+cash_player_killed_enemy_factor - 1
+cash_player_killed_hostage - -1000
+cash_player_killed_teammate - -3300
+cash_player_rescued_hostage - 1000
+cash_player_respawn_amount - 0
+cash_player_get_killed - 0
+mp_teamcashawards - 1
+cash_team_elimination_bomb_map - 3250
+cash_team_elimination_hostage_map_t - 1000
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+cash_team_hostage_interaction - 500
+cash_team_loser_bonus - 1400
+cash_team_loser_bonus_consecutive_rounds - 500
+cash_team_planted_bomb_but_defused - 800
+cash_team_rescued_hostage - 0
+cash_team_terrorist_win_bomb - 3500
+cash_team_win_by_defusing_bomb - 3250
+cash_team_win_by_hostage_rescue - 3500
+cash_team_win_by_time_running_out_bomb - 3250
+cash_team_win_by_time_running_out_hostage - 3250
+mp_afterroundmoney - 0
+mp_buytime - 90
+mp_startmoney - 800
+mp_maxmoney - 16000
+mp_death_drop_defuser - 1
+mp_death_drop_grenade - 2
+mp_death_drop_gun - 1
+mp_deathcam_skippable - 1
+mp_defuser_allocation - 0
+mp_give_player_c4 - 1
+mp_free_armor - 0
+mp_molotovusedelay - 15.0
+mp_weapons_allow_zeus - 1
+mp_weapons_allow_map_placed - 0
+mp_weapons_glow_on_ground - 0
+mp_ct_default_melee - weapon_knife
+mp_ct_default_secondary - weapon_hkp2000
+mp_ct_default_primary - 
+mp_ct_default_grenades - 
+mp_t_default_melee - weapon_knife
+mp_t_default_secondary - weapon_glock
+mp_t_default_primary - 
+mp_t_default_grenades - 
+mp_buy_allow_grenades - 1
+mp_freezetime - 6
+mp_force_pick_time - 15
+mp_halftime - 0
+mp_match_can_clinch - 1
+mp_maxrounds - 0
+mp_roundtime - 5
+mp_roundtime_defuse - 0
+mp_roundtime_hostage - 0
+mp_timelimit - 5
+mp_warmuptime - 30
+mp_warmup_pausetimer - 0
+mp_halftime_pausetimer - 0
+mp_default_team_winner_no_objective - -1
+mp_hostagepenalty - 10
+mp_solid_teammates - 1
+sv_allow_votes - 1
+sv_alltalk - 0
+sv_deadtalk - 0
+sv_ignoregrenaderadio - 0
+mp_teammates_are_enemies - 0
+mp_damage_scale_ct_body - 1.0
+mp_damage_scale_ct_head - 1.0
+mp_damage_scale_t_body - 1.0
+mp_damage_scale_t_head - 1.0
+mp_friendlyfire - 0
+ff_damage_reduction_bullets - 0.1
+ff_damage_reduction_grenade - 0.25
+ff_damage_reduction_grenade_self - 1
+ff_damage_reduction_other - 0.25
+mp_limitteams - 2
+spec_freeze_panel_extended_time - 0.0
+spec_freeze_time - 5.0
+mp_forcecamera - 1
+mp_respawn_immunitytime - 4.0
+mp_respawn_on_death_t - 0
+mp_respawn_on_death_ct - 0
+mp_display_kill_assists - 1
+mp_use_respawn_waves - 0
+mp_respawnwavetime_ct - 10.0
+mp_respawnwavetime_t - 10.0
+mp_randomspawn - 0
+mp_randomspawn_los - 1
+mp_radar_showall - 0
+sv_gravity - 800
+sv_accelerate - 5.6
+sv_stopspeed - 75
+sv_airaccelerate - 10
+sv_wateraccelerate - 10
+sv_waterfriction - 1
+sv_friction - 4.8
+sv_bounce - 0
+sv_maxvelocity - 3500
+sv_maxspeed - 320
+mp_ggprogressive_round_restart_delay - 15.0
+mp_ggtr_bomb_defuse_bonus - 1.0
+mp_ggtr_bomb_detonation_bonus - 1.0
+mp_ggtr_bomb_pts_for_flash - 4
+mp_ggtr_bomb_pts_for_he - 3
+mp_ggtr_bomb_pts_for_molotov - 5
+mp_ggtr_bomb_pts_for_upgrade - 2.0
+mp_ggtr_bomb_respawn_delay - 0.0
+mp_ggtr_end_round_kill_bonus - 1
+mp_ggtr_halftime_delay - 0.0
+mp_ggtr_last_weapon_kill_ends_half - 0
+sv_arms_race_vote_to_restart_disallowed_after - 0
+Executing listen server config file
+Unknown command "mp_deathcam_skippable"
+exec: couldn't exec gamemode_competitive_server.cfg
+Attempting to precache model, but model name is NULL
+Commentary: Could not find commentary data file 'maps/de_train_commentary.txt'. 
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Initializing Steam libraries for secure Internet server
+Logging into anonymous gameserver account.
+341.962:  Sending UDP connect to public IP 127.0.0.1:27015
+Connection to Steam servers successful.
+   Public IP is 68.108.38.63.
+Assigned anonymous gameserver Steam ID [A:1:1752072193(3398)].
+VAC secure mode is activated.
+347.966:  Sending UDP connect to public IP 127.0.0.1:27015
+Server using '<none>' lobbies, requiring pw no, lobby id 0
+RememberIPAddressForLobby: lobby 0 from address loopback
+
+Counter-Strike: Global Offensive
+Map: de_train
+Players: 1 (0 bots) / 10 humans
+Build: 5276
+Server Number: 1
+
+CheckUpdatingSteamResources: downloading file 'maps\de_train.bsp'
+CheckUpdatingSteamResources: downloading file 'maps\de_train.nav'
+CheckUpdatingSteamResources: downloading file 'models\weapons\w_c4_planted.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\tm_balkan_varianta.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\tm_balkan_variantb.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\tm_balkan_variantc.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\tm_balkan_variantd.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\tm_balkan_variante.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\ctm_st6.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\ctm_st6_varianta.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\ctm_st6_variantb.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\ctm_st6_variantc.mdl'
+CheckUpdatingSteamResources: downloading file 'models\player\ctm_st6_variantd.mdl'
+CheckUpdatingSteamResources: downloading file 'materials\sprites\white.vmt'
+CheckUpdatingSteamResources: downloading file 'materials\sprites\white.vtf'
+CheckUpdatingSteamResources: downloading file 'materials\vgui\white.vmt'
+CheckUpdatingSteamResources: downloading file 'materials\vgui\white.vtf'
+CheckUpdatingSteamResources: downloading file 'materials\effects\flashbang.vmt'
+CheckUpdatingSteamResources: downloading file 'materials\effects\flashbang_white.vmt'
+CheckUpdatingSteamResources: downloading file 'materials\particle\particle_smokegrenade1.vmt'
+CheckUpdatingSteamResources: downloading file 'materials\particle\particle_smokegrenade.vtf'
+CheckUpdatingSteamResources: downloading file 'materials\sprites\scope_arc.vmt'
+CheckUpdatingSteamResources: downloading file 'materials\sprites\scope_arc.vtf'
+CheckUpdatingSteamResources: downloading file 'scripts\dsp_presets.txt'
+CheckUpdatingSteamResources: downloading file 'cfg\cpu_level_0_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\cpu_level_0_pc_ss.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\cpu_level_1_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\cpu_level_1_pc_ss.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\cpu_level_2_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\cpu_level_2_pc_ss.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_level_0_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_level_1_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_level_2_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_level_3_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\mem_level_0_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\mem_level_1_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\mem_level_2_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_mem_level_0_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_mem_level_1_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'cfg\gpu_mem_level_2_pc.ekv'
+CheckUpdatingSteamResources: downloading file 'scripts\instructor_lessons.txt'
+CheckUpdatingSteamResources: downloading file 'scripts\mod_lessons.txt'
+No pure server whitelist. sv_pure = 0
+SignalXWriteOpportunity(3)
+Charmander never connected.
+Receiving uncompressed update from server
+Redownloading all lightmaps
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+Unknown command: clientinpconfig
+Game will not start until both teams have players.
+Game will not start until both teams have players.
+Game will not start until both teams have players.
+Scoring will not start until both teams have players.
+Scoring will not start until both teams have players.
+Scoring will not start until both teams have players.
+Can't use cheat command ch_createairboat in multiplayer, unless the server has sv_cheats set to 1.
+Unknown command: sh_createairboat
+Attempted to create unknown entity type prop_vehicle_airboat!
+Attempted to create unknown entity type prop_vehicle_airboat!
+Unknown command: ch_createheep
+Attempted to create unknown entity type prop_vehicle_jeep!
+box x1 y1 z1 x2 y2 z2
+setpos -1634.154785 1363.917114 -165.054062;setang -4.697005 5.929012 0.000000
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Luxel Value: 0 0 0
+Luxel Value: 0 0 0
+Luxel Value: 0 0 0
+Unknown command: perui
+Test_Loop: requires a loop name.CTestScriptMgr: not initialized.
