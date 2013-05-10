@@ -60,7 +60,7 @@ class Bitmap
 		@scores.reverse_each do |i|
 			i.each do |j|
 				#pixels
-				val = 255 * ( j / (@maxscore.to_f / 4) )
+				val = 255 * ( j / 100.0 )
 				val = 255 if val > 255
 				pixels[index] = val
 				pixels[index + 1] = val
