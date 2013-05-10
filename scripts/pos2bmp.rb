@@ -54,17 +54,60 @@ class Bitmap
 	def write_pixels( file )
 		#file.write("Pixel array will go here...\n")
 
+		#Quartiles
+		q1 = (@maxscore/4) * 0.25
+		q2 = (@maxscore/4) * 0.50
+		q3 = (@maxscore/4) * 0.75
+		q4 = (@maxscore/4) * 1.00
+		
 		pixels = Array.new(@pixel_size)
 		index = 0
 		rheight = 0
 		@scores.reverse_each do |i|
 			i.each do |j|
 				#pixels
-				val = 255 * ( j / 100.0 )
-				val = 255 if val > 255
-				pixels[index] = val
-				pixels[index + 1] = val
-				pixels[index + 2] = val
+				
+				#Calculate the 'heat' value of each pixel
+				#Heat value works as follows:
+					#The lowest score possible starts with an RGB of 00/00/FF
+					#As the score increases, the G value rises until 00/FF/FF
+					#As the score increases, the B value lowers until 00/FF/00
+					#As the score increases, the R value rises until FF/FF/00
+					#As the score increases, the G value lowers until FF/00/00 
+					#The highest score possible ends with an RGB of FF/00/00
+				
+				#As a function of score, from 0 to maxscore...
+				case j
+					when 0
+						red = 0
+						blue = 0
+						green = 0
+					when 1...q1
+						red = 0
+						green = 255 - ( ( (q1 - j) / q1) * 255).to_i
+						blue = 255
+					when q1...q2
+						red = 0
+						green = 255
+						blue = ( ( ( (q2 - q1) - (j - q1) ) / (q2 - q1) ) * 255).to_i
+					when q2...q3
+						red = 255 - ( ( ( (q3 - q2) - (j - q2) ) / (q3 - q2) ) * 255).to_i
+						green = 255
+						blue = 0
+					when q3...q4
+						red = 255
+						green = ( ( ( (q4 - q3) - (j - q3) ) / (q4 - q3) ) * 255).to_i
+						blue = 0
+					else
+						red = 255 
+						green = 0
+						blue = 0
+				end
+				
+				#pixels are stored bgr
+				pixels[index] = blue 
+				pixels[index + 1] = green
+				pixels[index + 2] = red
 				index += 3
 			end
 			#padding- dont care what values go in here
